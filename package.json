@@ -1,0 +1,18 @@
+{
+  "name": "js-db-proj",
+  "version": "1.0.0",
+  "description": "Connect PostGres and Mongo",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1",
+    "pg": "^8.11.5",
+    "ssh2": "^1.15.0"
+  }
+}
